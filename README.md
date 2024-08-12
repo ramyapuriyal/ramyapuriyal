@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramyapuriyal&label=Profile%20views&color=0e75b6&style=flat" alt="ramyapuriyal" /> </p>
 
-- 🌱 I’m currently learning **react and nodejs**
+- 🌱 I’m a **MERN Stack Developer**
 
 - 👯 I’m looking to collaborate on **Open Source Web Development**
 
-- 💬 Ask me about **frontend web development**
+- 💬 Ask me about **MERN, Frontend web development and DSA**
 
 - 📫 How to reach me **ramyasreepuriyal@gmail.com**
 
